@@ -858,6 +858,7 @@ color:#f97400 }
     } .head .navbar{height: 50%;
         width: 100%;
         background:#0f1111;
+        position: relative;
         background-image: url(bu.jpg);
         background-size: cover;
         background-repeat: no-repeat;
