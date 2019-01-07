@@ -1,0 +1,1041 @@
+body{
+    background: white;
+
+} .sfr{
+    width: 100%;
+height: 100%;
+    background-color: white;
+    text-align: center;
+    padding-top: 3rem
+
+} .sfr h2{
+   font-size: 5rem;
+    
+
+}   .sfr p{
+   font-size: 2rem;
+    
+
+}  .a1{
+    width:35rem;
+    height: 40rem;
+    background-color: #513c3a;
+     background-image: url("ba.jpg");
+    
+   background-size: cover;
+        background-repeat:       no-repeat;
+ 
+               
+           }
+
+.a1 h1{
+    color: white;
+    font-size: 2rem;
+    
+   
+               
+           }
+
+
+.a1 p{
+    margin-top: 30rem;
+    color: white;
+               
+           }
+
+
+
+
+
+.btn:hover{
+   background: white;
+    border: 1px solid red;
+    color: black;
+               
+           }
+
+
+
+.how{ width: 100%;
+   text-align: center;
+    margin-top: 3rem;
+               
+           }
+
+
+.a2{
+    width:35rem;
+    height: 40rem;
+    background-color: #545958;
+    background-image: url("ops.jpg");
+    
+   background-size: cover;
+        background-repeat:       no-repeat;
+ 
+           }  .r{
+    width:100%;
+    background-color: white;
+   
+ 
+           } .r h1{
+    font-size: 5rem;
+               text-align: center;
+                  padding-top: 2rem;
+
+ 
+           } .r p{
+       font-size: 2rem;
+               text-align: center;
+               margin-top: 3rem;
+
+ 
+           }
+
+.a2 h1{
+    color: white;
+    font-size: 2rem;
+           }
+
+
+.a2 p{
+    margin-top:30rem;
+    color: white;
+               
+           }
+
+
+
+.a3{
+    width:35rem;
+    height: 40rem;
+    background-color: #a9a4a5;
+     background-image: url("gl.jpg");
+    
+   background-size: cover;
+        background-repeat:       no-repeat;
+ 
+           }
+
+.a3 h1{
+    color: white;
+            font-size: 2rem;
+    text-transform: uppercase;
+
+               
+           }
+
+
+.a3 p{
+    margin-top: 30rem;
+    color: white;
+               
+           }
+
+
+.a4{
+    width:35rem;
+    height: 40rem;
+    background-color: #737373;
+    background-color: #a9a4a5;
+     background-image: url("ti.jpg");
+    
+   background-size: cover;
+        background-repeat:       no-repeat;
+               
+           }
+.a4 h1{
+    color: white;
+            font-size: 2rem;
+
+           }
+
+
+.a4 p{
+    margin-top: 30rem;
+    color: white;
+               
+           }
+
+
+
+.a5{
+    width:75rem;
+    height: 40rem;
+    background-color: #926558;
+    background-image: url("sun.jpg");
+    
+   background-size: cover;
+        background-repeat:       no-repeat;
+               
+           }
+
+.a5 h1{
+    color: white;
+                      font-size: 2rem;
+         text-transform: uppercase;
+
+           }
+
+
+.a5 p{
+    margin-top: 30rem;
+    color: white;
+               
+           }
+
+
+
+
+
+
+.qpr{
+    text-align: left;
+    margin-left: 10rem;
+    width: 100%;
+    margin-top: 2rem;
+    display: grid;
+grid-template-columns: 30% 30%  30%; 
+grid-gap: 1em;  
+/*grid-column-gap: 1em;
+grid-row-gap: 1em;*/
+                   padding: 1em;
+   
+               
+           }
+
+
+
+.qpr p,h1{
+    
+    margin-left: 2rem;
+   
+               
+           }
+
+
+
+.qpr h1{
+    
+font-size: 2.5rem;   
+               
+           }
+
+
+
+
+
+
+
+
+
+
+
+.a{
+    
+    margin-top: 20rem;
+    background: #eee;
+               width: 100%;
+               height: 100%;
+           display: grid;
+grid-template-columns: 1fr 1fr 1fr; 
+grid-gap: 1rem;
+        /*grid-column-gap: 1em;
+grid-row-gap: 1em;*/
+                   padding: 3em;
+               
+               
+           }.a div {
+    background: white;
+               width: 100%;
+               height: 100%;
+           } .a div p{
+    font-size: 2.3rem;
+               text-align: center;
+           } .a div img{
+              
+border-radius: 50%;   
+border: 10px solid white
+    
+;
+position: relative;
+
+
+left: 40%;
+bottom: 4rem;}
+.x {
+width: 100%;
+    background-image: url("bl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+     text-align: center;
+     font-size: 1rem;
+display: none;
+     padding-top: 1rem;
+    font-family: sans-serif;
+
+}
+
+.x h1{
+     margin-top: 1rem;
+color: white;
+     font-size: 2rem; cursor: pointer;font-family: serif;
+
+} .f{
+     font-size: 6rem;
+    color:red;
+margin-left: 100rem;
+    margin-bottom: 3rem;
+}
+
+.x h1:hover{
+    color: black;
+
+}
+
+.x .b {
+width: 100%;
+    background-color: white;
+     text-align: left;
+     font-size: 1rem;
+display: none;
+}.x .b h2{
+border-bottom:1px solid black ;
+
+}
+.c{
+    text-align: center;
+
+}
+
+.x .c{
+width: 100%;
+    background-color: white;
+     text-align: left;
+     font-size: 2rem;
+display: none;
+}
+#fucs{
+    text-align: center;
+    color: white;
+    margin-top: 3rem;
+    margin-right: 6rem;
+}
+#fop{
+    margin-left: 10rem;
+    margin-top: 3rem;
+     height: 40px;
+line-height:4rem;
+ outline: none;
+  text-align: center;
+  width: 130px;
+  border-radius: 40px;
+  background: #f97304;
+  letter-spacing: 1px;
+  text-shadow: 0;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+
+
+
+
+}
+#fop a{
+  color: #fff;
+
+    text-decoration: none;
+}
+.x .d{
+width: 100%;
+    background-color: white;
+     text-align: left;
+     font-size: 2rem;
+display: none;
+}
+
+.d h2 {
+     margin-top: 1rem;
+border-bottom: 1px solid black;
+
+}
+
+
+
+.a div h1 {
+    text-align: center;
+              font-size: 2rem;
+    padding-bottom: 6rem;
+           }  #ass a{color: white;
+margin-bottom: 3rem;}
+.nav-item  #ass {color: white;}
+.collapse { float: right;
+    font-size: 2rem;
+        margin-right: 10rem;
+
+     text-transform: uppercase;
+}
+.head .navbar{
+    width:100%;height: 39rem;
+    background:#0f1111;
+    background-image: url(bu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar .opi{display: grid;
+                /*grid-template-columns: 1fr 1fr 1fr ; */
+                grid-template-columns:40% 50%;
+                grid-gap: 1em;  
+                /*grid-auto-rows: 100px;*/
+                grid-auto-rows: minmax(100px,auto);
+                /*grid-column-gap: 1em;
+                grid-row-gap: 1em;*/
+    
+padding: 1rem;
+    margin: 0 auto;
+}
+ .navbar-brand { margin-top: 11rem;
+color: black;margin-left: 5rem;
+     font-size: 3rem;
+}
+.navbar-brand  span{
+color: red;
+     font-size: 3rem;
+}
+
+
+.navbar-brand strong{
+     font-size: 2rem;
+color: white;
+
+}
+
+
+
+
+
+
+.wal{
+    
+    
+display: grid;
+                /*grid-template-columns: 1fr 1fr 1fr ; */
+                grid-template-columns:1fr 1fr 1fr 1fr;
+                grid-gap: 1em;  
+                /*grid-auto-rows: 100px;*/
+                grid-auto-rows: minmax(100px,auto);
+                /*grid-column-gap: 1em;
+                grid-row-gap: 1em;*/
+
+padding: 2rem;
+                }
+
+.sd{
+    
+    
+width: 5rem}
+.navbar-toggle{
+    margin-top: 2.5rem;
+}
+.banner {
+    width: 100%;
+    background-color: #0dafc6;
+    background-image: url('wes.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    margin-top: 8rem;
+    border: 1px solid white;
+}
+.banner:before {
+    content: "";
+    float: left;
+    padding-bottom: 40%;
+}
+.banner:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.banner .content  {
+   width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    background-color: none;
+    color: white;
+    margin-top: 10%;
+}.banner .content h1 {
+        text-align: center;
+
+    
+  font-size: 7rem;
+    color: black;
+}.banner .content p{
+font-size: 3rem;}.banner .content span{
+color:#f97400 }
+.banner .far{
+font-size: 7rem;
+margin-left: 6rem;}.banner .content span{
+color:#f97400 }
+.banner .fa{
+font-size: 6rem;
+margin-left: 4rem;}.banner .content span{
+color:#f97400 }
+
+.banner a {
+    width: 100%;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #01c076;
+    border: 3px solid #01c076;
+    font-weight: bold;
+    padding: 0.5em 3em;
+    text-decoration: none;
+    background: #01c076;
+}
+.banner a:hover {
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    border: 3px solid #fff;
+    font-weight: bold;
+    padding: 0.5em 3em;
+    text-decoration: none;
+    background: #0d0a0a;
+}.fa {
+font-size: 5x;
+    margin-left: .5rem;
+
+}.qa .fa {
+position: relative;
+    top:7rem;
+    
+    font-size: 50px;
+    margin-top: 10rem;
+}.qa {
+    width: 100%;
+    height: 100%;
+  display: grid;
+    background-color: white;
+                /*grid-template-columns: 1fr 1fr 1fr ; */
+                grid-template-columns:1fr 1fr 1fr;
+                grid-gap: 1em;  
+                /*grid-auto-rows: 100px;*/
+                grid-auto-rows: minmax(100px,auto);
+                /*grid-column-gap: 1em;
+                grid-row-gap: 1em;*/
+
+padding: 5rem;
+}.qa h2{margin-left: 7rem;
+  }.wals{
+    
+    
+display: grid;
+                /*grid-template-columns: 1fr 1fr 1fr ; */
+                grid-template-columns:1fr 1fr 1fr ;
+                grid-gap: 1em;  
+                /*grid-auto-rows: 100px;*/
+                grid-auto-rows: minmax(100px,auto);
+                /*grid-column-gap: 1em;
+                grid-row-gap: 1em;*/
+
+padding: 2rem;
+                }.scroll-top {
+    z-index:1049;
+  position:fixed; 
+  visibility:visible;
+  bottom:5%;right:5%;
+  background: #0d0d0d;
+  opacity: 0.6;
+  width:50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 50%;
+ border: 0;
+}
+
+.scroll-top a {
+  color: #ec644a;
+
+}
+
+
+.qa p{
+    margin-left: 7rem;
+    padding-bottom: 10rem;
+    font-size: 1.6rem;
+    
+}.qa div{
+    width: 100%;
+}
+
+.boxheader {
+   background: #68e0f0;
+   color: white;
+   padding: 5px;
+ }
+ 
+ .boxbody {
+   padding: 20px;
+        font-size: 24pt;
+
+ }
+ 
+.box {
+    text-align: left;
+   box-shadow: 5px 5px 10px #535353;
+   border: 1px silver;
+   border-radius: 4px;
+   position: relative;
+   width: 100%;
+   height: 100%;
+   overflow: hidden;
+   /* limit size with min/max-width/height*/
+   min-height: 100px;
+   min-width: 200px;
+   max-width: 999px;
+   max-height: 800px;
+ }
+ .boxbody h2{
+  color: black;
+font-size: 3rem;
+ }
+ 
+  .boxbody p1{
+  color: black;
+font-size: 2rem;
+ }
+ 
+
+.rtz{
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+
+.df{
+    width: 10%;
+    border-bottom: 1px solid green;
+    margin-left: 45%;
+}
+
+.dfj{
+    width: 10%;
+    border-bottom: 1px solid green;
+    margin-left: 45%;
+    margin-top: 4rem;
+}
+
+.rtz h3{
+  font-size: 4rem;
+}
+
+
+.rtz p{
+    font-size: 2rem;
+}
+
+
+
+.lö a{
+    width: 100%;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #01c076;
+    border: 3px solid #01c076;
+    font-weight: bold;
+    padding: 0.5em 3em;
+    text-decoration: none;
+    background: #01c076;
+    margin-bottom: 5rem;
+}
+
+.lö a:hover{
+     border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    border: 3px solid #fff;
+    font-weight: bold;
+    padding: 0.5em 3em;
+    text-decoration: none;
+    background: #0d0a0a;
+}
+
+
+
+ .qop{
+     font-family: serif;
+text-align:left;               width: 100%;
+               height: 100%;
+               display: grid;
+grid-template-columns:  1fr 1fr 1fr; 
+grid-gap: 1rem;
+        /*grid-column-gap: 1em;
+grid-row-gap: 1em;*/
+                   padding: 3rem;
+               
+               
+             
+
+
+               
+           }
+
+
+
+.qop h1{
+font-size:2rem;
+    font-weight: bold;
+            
+             
+
+
+               
+           }
+
+.qop p{
+font-size: 2rem;
+
+               
+           }
+
+
+
+
+.qop strong{
+color: #00d684;margin-right: 1rem;
+
+
+               
+           }
+
+.ah{
+width: 100%;
+    background-color: white;
+    text-align: center;
+
+               
+           }
+.asm{
+width: 100%;
+    background-color:#f3f4f8;
+    text-align: center;
+margin-top: 7rem;
+    padding-bottom: 4rem;
+               
+           }
+.asm .fa{
+font-size: 3rem;
+    margin-top: 2rem;
+    color: black;
+               
+           }
+.ah h1{
+font-size: 5rem;
+               
+           }
+
+  .ah p{
+font-size: 3rem;
+
+
+               
+           }
+
+  
+.os {
+width: 100%;
+    margin-top: 3rem;
+  display: grid;
+                /*grid-template-columns: 1fr 1fr 1fr ; */
+                grid-template-columns:1fr 1fr 1fr;
+                grid-gap: 1em;  
+                /*grid-auto-rows: 100px;*/
+                grid-auto-rows: minmax(100px,auto);
+                /*grid-column-gap: 1em;
+                grid-row-gap: 1em;*/
+
+padding: 3rem;
+               
+           }
+.os .fa {
+font-size: 7rem;
+    margin-top: 2rem;
+    margin-left: 22rem;
+           }.os h1{
+font-size: 2rem;
+               text-align: center;
+               
+           }
+.os .fas {
+font-size: 7rem;
+    margin-top: 2rem;
+    margin-left: 22rem;
+           }.os h1{
+font-size: 2rem;
+               text-align: center;
+               color: #f6fea3;
+               
+           }
+
+.os p{
+
+               text-align: center;
+margin-bottom: 3rem;
+               
+           }
+
+
+
+.os div{
+width:100%;
+    height: 100%;
+    background-color: #00d684;
+
+               
+           }
+.om .btn{
+margin-left: 45%;
+               
+           } 
+
+.banners {
+    width: 100%;
+    background-color: white;
+    background-image: url('wes.jpg');
+    background-size: cover;
+    background-position: center center;
+    margin-top: 8rem;
+    border: 1px solid white;
+}
+.banners:before {
+    content: "";
+    float: left;
+    padding-bottom: 40%;
+}
+.banners:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.banners .content  {
+   width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    background-color: none;
+    color: white;
+    margin-top: 10%;
+}.banners .content h1 {
+        text-align: center;
+
+    
+  font-size: 7rem;
+    color: black;
+}.banners .content p{
+font-size: 3rem;}.banners .content span{
+color:#f97400 }
+.banners .far{
+font-size: 7rem;
+margin-left: 6rem;}.banners .content span{
+color:#f97400 }
+.banners .fa{
+font-size: 6rem;
+margin-left: 4rem;}.banner .content span{
+color:#f97400 }
+
+
+  @media only screen and (min-width: 328px) and (max-width: 1024px) and (orientation: portrait) {
+    .navbar-brand{
+        margin-top: 1rem;
+        margin-left: 0rem;
+    } .head .navbar{height: 50%;
+        width: 100%;
+        background:#0f1111;
+        background-image: url(bu.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .banner{
+   width: 100%;
+                        } .wal .far{
+                            right: 0%;
+                            position: relative;
+                                                 }
+                                                 .wals{
+    width: 100%;
+    
+                                                    display: grid;
+                                                                    /*grid-template-columns: 1fr 1fr 1fr ; */
+                                                                    grid-template-columns:1fr  ;
+                                                                    grid-gap: 1em;  
+                                                                    /*grid-auto-rows: 100px;*/
+                                                                    grid-auto-rows: minmax(100px,auto);
+                                                                    /*grid-column-gap: 1em;
+                                                                    grid-row-gap: 1em;*/
+                                                    
+                                                    padding: 2rem;
+                                                                    }
+                                                                    .box {
+                                                                        text-align: left;
+                                                                       box-shadow: 5px 5px 10px #535353;
+                                                                       border: 1px silver;
+                                                                       border-radius: 4px;
+                                                                       position: relative;
+                                                                       width: 100%;
+                                                                       height: 100%;
+                                                                       overflow: hidden;position: relative;
+                                                                       right: 0%;
+                                                               
+                                                                       /* limit size with min/max-width/height*/
+                                                                       
+                                                                     }.banners .content  {
+                                                                        width: 100%;
+                                                                         margin: 0 auto;
+                                                                         display: flex;
+                                                                         justify-content: center;
+                                                                         flex-flow: column nowrap;
+                                                                         background-color: none;
+                                                                         color: white;
+                                                                         margin-top: 10%;
+                                                                     }
+                                                                     .boxbody {
+                                                                        padding: 0px;
+                                                                             font-size: 24pt;
+                                                                             
+                                                                      }.banners .content h1 {
+                                                                        text-align: center;
+                                                                
+                                                                    
+                                                                  font-size: 3rem;
+                                                                    color: black;
+                                                                }.banner .content h1 {
+                                                                    text-align: center;
+                                                            
+                                                                
+                                                              font-size: 3rem;
+                                                                color: black;
+                                                            }
+                                                                .asm{
+                                                                    width: 100%;
+                                                                        background-color:#f3f4f8;
+                                                                        text-align: center;
+                                                                    margin-top: 7rem;
+                                                                        padding-bottom: 4rem;
+                                                                                   
+                                                                               }.wal{
+    width: 100%;
+    
+                                                                                display: grid;
+                                                                                                /*grid-template-columns: 1fr 1fr 1fr ; */
+                                                                                                grid-template-columns:1fr ;
+                                                                                                grid-gap: 1em;  
+                                                                                                /*grid-auto-rows: 100px;*/
+                                                                                                grid-auto-rows: minmax(100px,auto);
+                                                                                                /*grid-column-gap: 1em;
+                                                                                                grid-row-gap: 1em;*/
+                                                                                
+                                                                                padding: 2rem;
+                                                                                                }
+                                                
+   }@media only screen and (min-width: 328px) and (max-width: 1024px) and (orientation: landscape) {
+    .navbar-brand{
+        margin-top: 1rem;
+        margin-left: 0rem;
+    } .head .navbar{height: 50rem;
+        width: 100%;
+        background:#0f1111;
+        background-image: url(bu.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+    .banner{
+   width: 100%;
+                        } .wal .far{
+                            position: relative;
+                            right: 45%;
+                                                 }
+                                                 .wals{
+    width: 100%;
+    
+                                                    display: grid;
+                                                                    /*grid-template-columns: 1fr 1fr 1fr ; */
+                                                                    grid-template-columns:1fr  ;
+                                                                    grid-gap: 1em;  
+                                                                    /*grid-auto-rows: 100px;*/
+                                                                    grid-auto-rows: minmax(100px,auto);
+                                                                    /*grid-column-gap: 1em;
+                                                                    grid-row-gap: 1em;*/
+                                                    
+                                                    padding: 2rem;
+                                                                    }
+                                                                    .box {
+                                                                        text-align: left;
+                                                                       box-shadow: 5px 5px 10px #535353;
+                                                                       border: 1px silver;
+                                                                       border-radius: 4px;
+                                                                       position: relative;
+                                                                       width: 100%;
+                                                                       height: 100%;
+                                                                       overflow: hidden;position: relative;
+                                                                       right: 0%;
+                                                               
+                                                                       /* limit size with min/max-width/height*/
+                                                                       
+                                                                     }.banners .content  {
+                                                                        width: 100%;
+                                                                         margin: 0 auto;
+                                                                         display: flex;
+                                                                         justify-content: center;
+                                                                         flex-flow: column nowrap;
+                                                                         background-color: none;
+                                                                         color: white;
+                                                                         margin-top: 10%;
+                                                                     }
+                                                                     .boxbody {
+                                                                        padding: 0px;
+                                                                             font-size: 24pt;
+                                                                             
+                                                                      }.banners .content h1 {
+                                                                        text-align: center;
+                                                                
+                                                                    
+                                                                  font-size: 3rem;
+                                                                    color: black;
+                                                                }.banner .content h1 {
+                                                                    text-align: center;
+                                                            
+                                                                
+                                                              font-size: 3rem;
+                                                                color: black;
+                                                            }
+                                                                .asm{
+                                                                    width: 100%;
+                                                                        background-color:#f3f4f8;
+                                                                        text-align: center;
+                                                                    margin-top: 7rem;
+                                                                        padding-bottom: 4rem;
+                                                                                   
+                                                                               }.wal{
+    width: 100%;
+    
+                                                                                display: grid;
+                                                                                                /*grid-template-columns: 1fr 1fr 1fr ; */
+                                                                                                grid-template-columns:1fr 1fr 1fr 1fr  ;
+                                                                                                grid-gap: 1em;  
+                                                                                                /*grid-auto-rows: 100px;*/
+                                                                                                grid-auto-rows: minmax(100px,auto);
+                                                                                                /*grid-column-gap: 1em;
+                                                                                                grid-row-gap: 1em;*/
+                                                                                
+                                                                                padding: 2rem;
+                                                                                                }
+                                                
+   }
