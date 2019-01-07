@@ -855,7 +855,8 @@ color:#f97400 }
     .navbar-brand{
         margin-top: 1rem;
         margin-left: 0rem;
-    } .head .navbar{height: 10%;
+    } .head .navbar{height: 30%;
+        position: relative;
         width: 100%;
         background:#0f1111;
         background-image: url(bu.jpg);
@@ -948,9 +949,10 @@ color:#f97400 }
     .navbar-brand{
         margin-top: 1rem;
         margin-left: 0rem;
-    } .head .navbar{height: 10%;
+    } .head .navbar{height: 30%;
         width: 100%;
         background:#0f1111;
+        position: relative;
         background-image: url(bu.jpg);
         background-size: cover;
         background-repeat: no-repeat;
